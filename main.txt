@@ -1,0 +1,5 @@
+# Answer to worksheet match
+1. k-ps1.py - plotting of graphs, finding median and quartiles of data
+2. k-ps2.py, h-ps2.py - euclidean, manhattan... distance, cosine, dissimilarity between binary attributes
+3. k-ps3.py, h-ps3.py - binning, normalize z-score, nominal, numberic data
+4. k-ps4.py, h-ps4.py - euclidean, jaccard, cosine, correlation, hamming distance, jaccard similarity
