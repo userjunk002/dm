@@ -6,3 +6,7 @@
 5. d-1-4.py - all answers from 1 - 4, like plotting, distance, jaccard
 6. d-distance - distance calculation euclidean, MINKOWSKI, binning
 7. s-ps5.py - rollup, drilldown ps5 answers
+8. s-ps5-v2.py - siva's another answer for rollup, drilldown, slice and dice. answer is more modularised
+
+
+premkumar answer for ws5 : curl https://raw.githubusercontent.com/premkumar6/dm/main/main.txt
